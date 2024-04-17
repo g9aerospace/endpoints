@@ -1,0 +1,19 @@
+{
+    "hosts": [
+        {
+            "name": "Host 1",
+            "website": "https://www.host1.com",
+            "discord": "https://discord.gg/host1"
+        },
+        {
+            "name": "Host 2",
+            "website": "https://www.host2.com",
+            "discord": "https://discord.gg/host2"
+        },
+        {
+            "name": "Host 3",
+            "website": "https://www.host3.com",
+            "discord": "https://discord.gg/host3"
+        }
+    ]
+}
